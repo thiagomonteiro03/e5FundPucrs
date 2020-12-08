@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=filme
+comment2.target=void\ printaTodosFilmes(Filme[])
+comment3.params=filme
+comment3.target=void\ printaFilmesGenero(Filme[])
+comment4.params=filme
+comment4.target=void\ printaFilmeNome(Filme[])
+comment5.params=filme
+comment5.target=void\ printaFilmeAno(Filme[])
+comment6.params=filme
+comment6.target=void\ assisteFilme(Filme[])
+numComments=7
